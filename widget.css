@@ -16,7 +16,7 @@ body, html {
 .message {
     overflow: hidden;
     animation: MessageIn .3s;
-    padding: 1rem;
+    padding: 5px;
     border-radius: 10px;
 }
 
