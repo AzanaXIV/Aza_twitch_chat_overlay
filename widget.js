@@ -88,6 +88,7 @@ function addMessage(data, message) {
         <div class="meta">
             <div class="badges">${badges}</div>
             <div class="name">${data.displayName}</div>
+            <i class="metaBG"></i>
         </div>
         <div class="content">
             ${message}
